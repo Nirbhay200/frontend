@@ -24,4 +24,5 @@ npm install
 npm start
 complete
 
-complete 2nd day 
+<!-- complete 2nd day  -->
+git commit -m "Day 2: Enhanced UX by adding input validation, bulk delete (clear all), and API error handling"
