@@ -23,3 +23,5 @@ cd frontend
 npm install
 npm start
 complete
+
+complete 2nd day 
